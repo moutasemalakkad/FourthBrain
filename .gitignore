@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+./assignments/week-03-reddit-sentiment-analysis/nb/secrets_reddit.py
